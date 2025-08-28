@@ -1,6 +1,6 @@
 Source: unl0kr
 Priority: optional
-Maintainer: Eugenio Paolantonio (g7) <eugenio@droidian.org>
+Maintainer: Bardia Moshiri <bardia@furilabs.com>
 Build-Depends: debhelper-compat (= 13),
                libinih-dev,
                libinput-dev,
@@ -12,8 +12,8 @@ Build-Depends: debhelper-compat (= 13),
 Standards-Version: 4.6.1.0
 Section: libs
 Homepage: https://gitlab.com/cherrypicker/unl0kr
-Vcs-Git: https://github.com/droidian/unl0kr.git
-Vcs-Browser: https://github.com/droidian/unl0kr
+Vcs-Git: https://github.com/furilabs/unl0kr.git
+Vcs-Browser: https://github.com/furilabs/unl0kr
 Rules-Requires-Root: no
 
 Package: unl0kr
